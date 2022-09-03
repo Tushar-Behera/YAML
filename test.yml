@@ -18,5 +18,19 @@ courses:
 
 # here our "course" is an object which include all the keys and their respective value
 
+# Lets create an Array ...
+
+candidate_names:
+  - Tushar
+  - Anirudh
+  - Shreya
+  - Himanshi
+
+# 0r we can write as 
+
+applicants: ["Tushar", "Anirudh", "Shreya", "Himanshi"] 
+
+
+
 
 
