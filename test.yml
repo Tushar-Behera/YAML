@@ -30,7 +30,20 @@ candidate_names:
 
 applicants: ["Tushar", "Anirudh", "Shreya", "Himanshi"] 
 
+# Lets Enter Object inside Arrays ...
 
+candidate_details:
+  - name: 'Tushar'
+    email: 'Tushar@dev'
+    role: 'Team Admin'
 
+  - name: 'anirudh'
+    email: 'ani2015@dev'
+    role: 'backend operator'
+
+  - {name: 'Shreya', email: 'shreya003@dev', role: 'hr'}
+  - {name: 'Himanhi', email: 'hi_manshi@dev', role: "team lead"}
+
+# So Above are 2 ways to insert Object inside Array .... 
 
 
