@@ -46,4 +46,19 @@ candidate_details:
 
 # So Above are 2 ways to insert Object inside Array .... 
 
+# Two ways of Description Insertion
 
+# Muliline comment insertion to a single line --->
+
+cource_details :  >
+  so this insertion shows that 
+  how i enter comments or course details
+  in different lines but its outcome will  be shown in a single line.
+  just use ' > ' forward arrow after the key and hit enter.
+
+# Multiline comment as per user input, indentation  and formatting
+
+multiline_formatedinput: |
+  now as per user formatting,
+    indentaion,   spaces between character are printed
+  as shown in this value field just use " | " pipeline after the key and hit enter.
