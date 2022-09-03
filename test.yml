@@ -1,5 +1,22 @@
 # This File Contain all Ymail commands to start your Journey ...!!
 
-Author : Tushar
-From : "INDIA"
-Speciality : 'DevOps' #so the above 3 lines shows how to store a String vlaue to a key. BLUE one is key and ORANGE one is Value. 
+author : Tushar
+from : "INDIA"
+speciality : 'DevOps' # so the above 3 lines shows how to store a String vlaue to a key. BLUE one is key and ORANGE one is Value. 
+
+# Lets create an object and add some key_values ...
+
+courses:
+  course-name: "yaml course For Beginners"
+  version: 1.0
+  price: free
+  is_public: true
+  pre_enroll: null
+
+  release_date: 2022-09-03 12:05:20
+
+
+# here our "course" is an object which include all the keys and their respective value
+
+
+
